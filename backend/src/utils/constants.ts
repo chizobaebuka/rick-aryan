@@ -1,0 +1,1 @@
+export const STOCK_VALUE_PER_MT_NGN = 185_000;
